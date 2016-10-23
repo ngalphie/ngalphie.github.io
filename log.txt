@@ -1,0 +1,11 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading C:\Users\Alphonsus Ng\Downloads\Immunoassays in microfluidic systems.txt
+Loading C:\Users\Alphonsus Ng\Downloads\On-Chip Immunoassay for Molecular Analysis.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 672	793	791	C:\Users\Alphonsus Ng\Downloads\On-Chip Immunoassay for Molecular Analysis.txt	C:\Users\Alphonsus Ng\Downloads\Immunoassays in microfluidic systems.txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.053 seconds
