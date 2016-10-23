@@ -5,7 +5,7 @@ Loading C:\Users\Alphonsus Ng\Downloads\On-Chip Immunoassay for Molecular Analys
 Done Loading Documents
 Starting to Compare Documents
 Comparing Documents, 1 Completed
-Match: 672	793	791	C:\Users\Alphonsus Ng\Downloads\On-Chip Immunoassay for Molecular Analysis.txt	C:\Users\Alphonsus Ng\Downloads\Immunoassays in microfluidic systems.txt
+Match: 1093	1432	1414	C:\Users\Alphonsus Ng\Downloads\On-Chip Immunoassay for Molecular Analysis.txt	C:\Users\Alphonsus Ng\Downloads\Immunoassays in microfluidic systems.txt
 Done Comparing Documents
 Finishing Report Files
-Done. Total CPU Time: 0.053 seconds
+Done. Total CPU Time: 0.254 seconds
